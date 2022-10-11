@@ -1,0 +1,3 @@
+[submodule "sbmdl"]
+	path = sbmdl
+	url = https://github.com/ChubatovaTiger/sbmdl
